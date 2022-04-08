@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------
+
+                                - > SISTEMA DE GASTOS PERSONALES  < -
+
+- >  Desarrollar Un Sistema Que Me Permite Guardar Mis Gastos Y Mis Ganancias.
+
+- >  El Sistema Debe Contener Un Login De Usuario, Registro.
+
+- >  Para Guardar Una Ganacia Se Debe Guardar, Monto,
+     Categoria De Ganancia Y Fecha En Que Fue Agregada.
+
+- >  Para Guardar Un Gasto Se Debe Guardar, Monto, Categoria De Gasto,
+     Fecha De Gasto Y Se Debe Descontar Del Saldo A Favor O Dinero Ganado,
+     De Otro Modo No Se Podra Hacer Un Gasto.
+
+- >  El Sistema Debe Ser Capaz De Obtener Datos Filtrados Por Rangos De Fechas,
+     Por Ejemplo Todos Los Gastos Del 1 Al 5 De Marzo O Todas
+    Las Ganancias Del 1 De Abril Al 1 De Octubre.
+
+- >  Debe Haber Una Seccion De Ganacias, Una De Gastos Y Otra Para Obtener Los Datos Filtrados.
+
+----------------------------------------------------------------------------------------------------------
+
